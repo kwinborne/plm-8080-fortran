@@ -49,7 +49,7 @@
 		<Filter Name="Resource Files" Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe"/>
 		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl">
 		<File RelativePath="..\..\..\..\Desktop\plm1.f90"/>
-		<File RelativePath="..\..\..\..\Desktop\plm1.for"/>
-		<File RelativePath="..\..\..\..\Desktop\plm2.for"/>
+		<File RelativePath="..\..\..\..\Desktop\PLM81.FOR"/>
+		<File RelativePath="..\..\..\..\Desktop\plm\PLM82.FOR"/>
 		<File RelativePath="..\..\..\..\Desktop\plm_globs.f90"/></Filter></Files>
 	<Globals/></VisualStudioProject>
